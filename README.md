@@ -1,7 +1,7 @@
 ## Rural Healthcare App
 
 A React + Convex application that provides AI-assisted healthcare features for rural communities, including symptom checking, reminders, emergency help, health records, and more.
-
+ ![Todo List Dashboard](https://i.postimg.cc/PJSfbhdf/Screenshot-2025-09-04-084013.png)
 ### Tech Stack
 - React 19 + TypeScript + Vite
 - Tailwind CSS
@@ -15,7 +15,6 @@ A React + Convex application that provides AI-assisted healthcare features for r
 
 ### 1) Install Dependencies (Windows CMD)
 ```bat
-cd "C:\Users\Dilip Kumar\OneDrive\Desktop\rural_healthcare_app"
 npm install
 ```
 
